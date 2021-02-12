@@ -1,0 +1,47 @@
+
+
+
+main, body, html {
+
+    background-color: #06090E;
+
+}
+
+.x-info-row:hover {
+
+  color: #0E1116
+
+}
+
+
+.border {
+
+  color:  #30363D;
+
+}
+
+.label {
+
+  color: #FFFFFF;
+  opacity: 85%;
+
+}
+
+.label:hover {
+
+  color: #FFFFFF;
+  opacity: 55%;
+
+}
+
+.green-arrow {
+
+  color: #32D74B;
+
+}
+
+.red-arrow {
+
+  color: #FF453A;
+
+}
